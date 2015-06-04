@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BFF1B214-ACFC-4304-B667-193D271508CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>blogReader1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DCD31C81ED57D3E1ED2808B22A5B3DDDDCB95142</key>
+		<string>https://github.com/scottyoshimura/MasterDetailTemplate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>blogReader1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DCD31C81ED57D3E1ED2808B22A5B3DDDDCB95142</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scottyoshimura/MasterDetailTemplate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DCD31C81ED57D3E1ED2808B22A5B3DDDDCB95142</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DCD31C81ED57D3E1ED2808B22A5B3DDDDCB95142</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MasterDetailTemplate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
